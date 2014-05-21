@@ -16,8 +16,8 @@ import javax.swing.SpinnerNumberModel;
 import javax.swing.border.TitledBorder;
 import javax.swing.JSpinner;
 
-import BD.AeronaveBD;
-import Control.Aeronave;
+import Controller.Aeronave;
+import Model.AeronaveBD;
 
 import java.awt.Color;
 import java.awt.Font;

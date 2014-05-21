@@ -19,8 +19,8 @@ import javax.swing.border.TitledBorder;
 
 import com.sun.org.glassfish.external.statistics.annotations.Reset;
 
-import BD.VooBD;
-import Control.Voo;
+import Controller.Voo;
+import Model.VooBD;
 
 public class TelaPassagemCompraPerguntaVolta extends JDialog implements ActionListener{
 	

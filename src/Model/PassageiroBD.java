@@ -1,6 +1,6 @@
-package BD;
+package Model;
 
-import Control.Passageiro;
+import Controller.Passageiro;
 
 public class PassageiroBD {
 	

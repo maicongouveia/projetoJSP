@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.border.TitledBorder;
 
-import Control.Aeronave;
+import Controller.Aeronave;
 
 import java.awt.Font;
 import java.awt.event.ActionEvent;

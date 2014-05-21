@@ -1,6 +1,6 @@
-package BD;
+package Model;
 
-import Control.Passagem;
+import Controller.Passagem;
 
 public class PassagemBD {	
 	

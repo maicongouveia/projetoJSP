@@ -1,4 +1,4 @@
-package BD;
+package Model;
 
 import java.sql.Array;
 import java.sql.Connection;
@@ -13,7 +13,7 @@ import java.text.SimpleDateFormat;
 import javax.swing.table.DefaultTableModel;
 import javax.swing.table.TableModel;
 
-import Control.Voo;
+import Controller.Voo;
 
 
 public class VooBD {

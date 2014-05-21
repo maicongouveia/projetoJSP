@@ -15,7 +15,7 @@ import javax.swing.SpinnerNumberModel;
 import javax.swing.border.TitledBorder;
 import javax.swing.JSpinner;
 
-import Control.Aeronave;
+import Controller.Aeronave;
 
 import java.awt.Font;
 import java.awt.event.ActionEvent;

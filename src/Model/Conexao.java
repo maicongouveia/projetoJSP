@@ -1,4 +1,4 @@
-package BD;
+package Model;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -11,8 +11,8 @@ import java.util.List;
 import javax.swing.table.DefaultTableModel;
 import javax.swing.table.TableModel;
 
-import Control.Aeronave;
-import Control.Voo;
+import Controller.Aeronave;
+import Controller.Voo;
 
 public class Conexao {
 
