@@ -12,7 +12,8 @@ public class CriptografiaMD5 {
         return sen;  
     } 
     public static void main(String agrs[]) throws Exception{
-    	String senha = "professor";
+    	String senha = "123";
     	System.out.println(md5(senha));
     }
+    
 }
